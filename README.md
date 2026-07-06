@@ -60,4 +60,4 @@ A company HR dataset with 25 rows covering departments, salaries, managers, and 
 
 I am a BBA Finance graduate transitioning into Data Analytics, building a portfolio of SQL, Power BI, and Python projects. This repository is part of my ongoing practice routine.
 
-📌 [LinkedIn]([(https://www.linkedin.com/in/sajusays/)) — connect with me for data analytics content posted regularly.
+📌 [LinkedIn]([(https://www.linkedin.com/in/sajusays/)]) — connect with me for data analytics content posted regularly.
